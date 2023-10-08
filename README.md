@@ -5,3 +5,4 @@ Skills lab 6 - Group 55
 
 * Rylan Kauffman
 * Max Lasky
+* Aidan Barr Bono
