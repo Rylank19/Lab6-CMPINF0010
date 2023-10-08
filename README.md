@@ -4,3 +4,4 @@ Skills lab 6 - Group 55
 ## Group Members
 
 * Rylan Kauffman
+* Max Lasky
