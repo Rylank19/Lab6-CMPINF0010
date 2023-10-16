@@ -13,6 +13,10 @@ Skills lab 6/7 - Group 55
 
 The included python file will take a name and birth year from the user and print their age. It will then output a unique description based on the user's age.
 
+### EXAMPLE
+
+![Project Example](./Project_Example.png "Project Example").
+
 ## How to use
 
 The python file is all that is needed and can simply be run on your own computer. Download the python file and then run it in a python interpreter. When it is running, enter text when the prompts indicate.
